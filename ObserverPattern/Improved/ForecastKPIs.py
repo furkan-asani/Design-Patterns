@@ -20,3 +20,7 @@ class ForecastKPIs(AbsObserver):
         print('New tickets expected in the next hour: {}'.format(self.newTickets+6))
         print('Expected closed tickets in the next half hour: {}'.format(self.closedTickets-1))
         print('*****\n')
+
+# This override is in order to use the context manager and avoid any dangling references
+    def __exit__(self, exc_type, exc_value, traceback):
+        self._kpis.detach(self)
