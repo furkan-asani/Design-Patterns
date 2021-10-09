@@ -13,10 +13,10 @@ There is a folder for every pattern and within the respective folder there is al
 
 # Design Patterns
 
-- Strategy Pattern
-- Observer Pattern
+- [Strategy Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/StrategyPattern)
+- [Observer Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/ObserverPattern)
 - [Command Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/ObserverPattern)
-- Singleton Pattern
+- [Singleton Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/SingletonPattern)
 - Command Pattern
 - Builder Pattern
 - Factory Pattern
