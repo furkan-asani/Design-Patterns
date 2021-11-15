@@ -17,7 +17,7 @@ There is a folder for every pattern and within the respective folder there is al
 - [Observer Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/ObserverPattern)
 - [Singleton Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/SingletonPattern)
 - [Command Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/CommandPattern)
-- Builder Pattern
+- <a href="https://github.com/furkan-asani/Design-Patterns/tree/main/BuilderPattern" target="_blank">Builder Pattern</a>
 - Factory Pattern
 - Abstract Factory Pattern
 - Null Pattern
