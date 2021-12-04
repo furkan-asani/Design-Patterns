@@ -18,6 +18,6 @@ There is a folder for every pattern and within the respective folder there is al
 - [Singleton Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/SingletonPattern)
 - [Command Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/CommandPattern)
 - <a href="https://github.com/furkan-asani/Design-Patterns/tree/main/BuilderPattern" target="_blank">Builder Pattern</a>
-- Factory Pattern
+- [Factory Pattern](https://github.com/furkan-asani/Design-Patterns/tree/main/FactoryPattern)
 - Abstract Factory Pattern
 - Null Pattern
